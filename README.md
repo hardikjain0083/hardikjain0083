@@ -13,14 +13,13 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="www.linkedin.com/in/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="portflio-hardik-jain.vercel.app" target="_blank"><img src="https://img.shields.io/badge/portfolio-8A2BE2&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate AI/ML Engineer with a keen interest in making projects to solve real world applications</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 💼 I'm currently working on: **AutoEmail Draft Generator**
+- 🌱 I'm currently learning: **Retrieval Augmented Generation**
+- 💬 Ask me about: **💡 Python , ML Libraries , RAG , Databases**
 
  **<h3 align="left">Skills</h3>**
 
