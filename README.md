@@ -2,25 +2,45 @@
 
 <div id="toc">
   <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Hardik Jain
-      </h1>
-    </summary>
+      <h1>👋 Hi, my name is Hardik Jain</h1>
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="www.linkedin.com/in/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="portflio-hardik-jain.vercel.app" target="_blank"><img src="https://img.shields.io/badge/portfolio-8A2BE2&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+### Connect with me:
+<p align="left">
+<a href="https://github.com/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
+<a href="https://www.linkedin.com/in/hardikjain0083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://portfolio-hardik-jain.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" height="28"></a>
+</p>
 
- **<h3 align="left">🚀 Passionate AI/ML Engineer with a keen interest in making projects to solve real world applications</h3>**
+### 🚀 Passionate AI/ML Engineer with a keen interest in making projects to solve real world applications
 
-**<h3 align="left">Rapid Fire</h3>**
-
+### Rapid Fire
 - 💼 I'm currently working on: **AutoEmail Draft Generator**
-- 🌱 I'm currently learning: **Retrieval Augmented Generation**
-- 💬 Ask me about: **💡 Python , ML Libraries , RAG , Databases**
+- 🌱 I'm currently learning: **Retrieval Augmented Generation (RAG)**
+- 💬 Ask me about: **💡 Python, ML Libraries, RAG, Databases**
 
- **<h3 align="left">Skills</h3>**
+### Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"></div>
+#### 🤖 Generative AI & NLP
+<p align="left">
+  <img src="https://img.shields.io/badge/GenAI_/_RAG-FF6F61?style=for-the-badge&logo=openai&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/NLP_/_NER-3776AB?style=for-the-badge&logo=googlescholar&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28">
+</p>
+
+#### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+</p>
